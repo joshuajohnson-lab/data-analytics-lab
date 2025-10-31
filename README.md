@@ -15,7 +15,7 @@ Welcome! This repository contains Power BI, SQL, and Excel projects demonstratin
 
 ### 3. Data Visualisation for Credit Card Defaults (PowerBI)
 - Description: Created a dashboard to analyse the Credit Card Defaulters for a Financial Company.
-- PowerBI File: [powerBI/Credit_Card_Defaults.pdf](powerBI/Credit_Card_Defaults.pdf)  
+- PowerBI File: [powerBI/Credit_Card_Defaults_Dashboard.pbix](powerBI/Credit_Card_Defaults_Dashboard.pbix)    
 - PDF File: [powerBI/Credit_Card_Defaults.pdf](powerBI/Credit_Card_Defaults.pdf)  
 
 ### 4. Data Cleaning Project for a Company's Layoff Data (SQL)
